@@ -21,7 +21,7 @@ namespace proj13
                 case 1:
                     Console.WriteLine("Ответ: " + (a + b));
                     break;
-                
+
                 default: Console.WriteLine("wrong"); break;
             }
             Console.ReadKey();
